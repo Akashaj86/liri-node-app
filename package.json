@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Akashaj86/liri-node-app#readme",
   "dependencies": {
+    "axios": "^0.19.0",
     "node-spotify-api": "^1.1.1"
   }
 }
